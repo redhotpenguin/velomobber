@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:9
+-keep class com.android.velomobber.VeloMobber { <init>(...); }
+
+# view res/layout/main.xml #generated:2
+-keep class com.google.android.maps.MapView { <init>(...); }
+
