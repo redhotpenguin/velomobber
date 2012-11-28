@@ -1,4 +1,4 @@
-# view AndroidManifest.xml #generated:9
+# view AndroidManifest.xml #generated:10
 -keep class com.android.velomobber.VeloMobber { <init>(...); }
 
 # view res/layout/main.xml #generated:2
